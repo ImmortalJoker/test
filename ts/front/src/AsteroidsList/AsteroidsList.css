@@ -1,0 +1,9 @@
+.avatar-image {
+  position: absolute;
+  z-index: 1;
+}
+
+.avatar-default-image {
+  position: absolute;
+  z-index: 0;
+}
